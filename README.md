@@ -7,15 +7,6 @@
     The ultimate travel companion for the modern-day explorer.
   </p>
    
-<h4>
-    <a href="https://demo.adventurelog.app">View Demo</a>
-  <span> · </span>
-    <a href="https://adventurelog.app">Documentation</a>
-  <span> · </span>
-    <a href="https://discord.gg/wRbQ9Egr8C">Discord</a>
-  <span> · </span>
-    <a href="https://buymeacoffee.com/seanmorley15">Support 💖</a>
-  </h4>
 </div>
 
 <br />
