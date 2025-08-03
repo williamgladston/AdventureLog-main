@@ -98,3 +98,6 @@ AdventureLog was created to solve a problem: the lack of a modern, open-source, 
 - **Share Your Experiences** 📸: Share your adventures with friends and family and collaborate on trips together.
   - Adventures and itineraries can be shared via a public link or directly with other AdventureLog users.
   - Collaborators can view and edit shared itineraries (collections), making planning a breeze.
+
+
+developed by v william gladston
